@@ -1,0 +1,4 @@
+version=87.2 (Systemless by topjohnwu)
+arch=arm64
+minsdk=25
+maxsdk=25
